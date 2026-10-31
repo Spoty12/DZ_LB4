@@ -8,7 +8,7 @@
 
 ![Блок-схема алгоритма](images/block_scheme.png)
 
-[Открыть блок-схему](images/block_scheme.png))
+[Открыть блок-схему](images/block_scheme.png)
 
 ## Ответ
 
