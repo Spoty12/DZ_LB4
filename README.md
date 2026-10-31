@@ -6,10 +6,9 @@
 
 ## Блок-схема алгоритма
 
+![Блок-схема алгоритма](images/block_scheme.png)
 
-![Блок-схема ЛБ4](images/block_scheme.png)
-
-[Открыть блок-схему](images/block_scheme.png)
+[Открыть блок-схему](images/block_scheme.png))
 
 ## Ответ
 
